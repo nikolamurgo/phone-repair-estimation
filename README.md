@@ -12,7 +12,7 @@ This project aims to develop a machine learning model for estimating repair dura
 
 ## Installation
 1. Clone the repository:
-git clone [https://github.com/yourusername/mobile-phone-repair-estimation.git](https://github.com/nikolamurgo/phone-repair-estimation.git)
+git clone [https://github.com/nikolamurgo/mobile-phone-repair-estimation.git](https://github.com/nikolamurgo/phone-repair-estimation.git)
 
 ## Usage
 1. Prepare your dataset: Ensure your dataset is in the required format (CSV, Excel, etc.) and contains relevant features such as phone brand, model, repair problem, date received, and repair duration.
